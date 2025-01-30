@@ -1,5 +1,5 @@
 global:
-  language: "🇨🇿"
+  language: "CS"
 
 article:
   anchor_label: "Kotva"
@@ -24,6 +24,7 @@ article:
   part_of_series: "Tento článek patří do série."
   part: "Část"
   this_article: "Tento článek"
+  related_articles: "Related"
 
 author:
   byline_title: "Autor"
